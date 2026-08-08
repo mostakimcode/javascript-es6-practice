@@ -45,5 +45,3 @@ The practice is organized into five sections based on how I worked through the p
 - `04-practical-problems-01`
 - `05-practical-problems-02`
 
-
-# This repository is part of my ongoing JavaScript journey.
